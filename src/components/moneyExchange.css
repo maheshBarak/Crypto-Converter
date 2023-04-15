@@ -1,0 +1,11 @@
+.form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+.select-input {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
